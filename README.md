@@ -1,2 +1,2 @@
-# ML
-Machine learning project files
+# Mill Wear
+Neural Network for grinding mill wear prediction
